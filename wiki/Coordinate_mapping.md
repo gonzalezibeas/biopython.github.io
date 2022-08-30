@@ -13,7 +13,7 @@ essential part of much genomic analysis. This is a brief introduction to
 the SeqMapper module.
 
 Note: This uses the coordinate mapper currently available on my
-[branch](https://github.com/lennax/biopython/tree/f_loc4). This in turn
+[branch](https://github.com/lennax/biopython/tree/f_loc5). This in turn
 is a branch of Peter's branch introducing CompoundLocations. It will not
 work with the old style of SeqFeature.
 
